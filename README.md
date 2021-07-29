@@ -1,6 +1,6 @@
-# plant_diseases_detection
+# Plant Scanner Mobile App
 
-A new Flutter project.
+A Flutter Mobile Application To Detect Plant Diseases Detection which the user can know the type of plant disease by photographing or uploading a picture of the plant, and the program through that image determines the type of plant and Information About The Disease the disease.
 
 ## Getting Started
 
